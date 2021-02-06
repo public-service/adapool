@@ -3,5 +3,5 @@
 "description": "A secure and reliable cardano stake pool. Two relays - to secure uptime. Build and maintained by a female crypto-pioneer and a male data scientist. 24/7 monitoring of our pool.",
 "ticker": "NINI",
 "homepage": "https://tinyurl.com/NINIstake", 
-"extended": "https://github.com/public-service/adapool/extended-example.json"
+"extended": "https://github.com/public-service/adapool/extended-nini.json"
 }
