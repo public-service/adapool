@@ -1,7 +1,16 @@
 {
-    "info": 
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "about": {
+            "me": "",
+            "server": ""
+        },
         "social": {
-            "telegram_handle": "NINI - a cardano stakepool"
+            "telegram_handle": "NINI_stakepool"
         }
+    },
+    "my-pool-ids": {
+        "0": "1e1be043e289a619d8bcd2f0eca0941aa9eaf1278701c5542b46a3e9"
     }
 }
